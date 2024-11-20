@@ -29,7 +29,15 @@ Kullanıcıdan alınan sese slider bar ile değerler atanıp işlenmiş sese dö
   * Chorus Efekti
     - Chorus derinliği
     - Chorus hızı
-  * 
-    - Chorus derinliği
-    - Chorus hızı
-
+  * Echo Efekt(Tape Echo)
+    - Gecikme süresi
+    - Geri besleme
+  * Band Pass Filte
+    - Düşük Kesim Frekans
+    - Yüksek Kesim Frekans
+  * Reverb Efekti
+  * Subtle Echo gecikmesi
+  * Flanger Efekt
+  * Pitch Shift(Yarım Ton)
+    - Perde yükseltme yaparak ses de incelme sağlar
+    - Perde azaltma yaparak da ses de kalınlaşma sağlar
