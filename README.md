@@ -1,9 +1,10 @@
            *** Python kullanarak basit bir arayüzü olan Mikser programı ***
 Kullanıcıdan alınan sese slider bar ile değerler atanıp işlenmiş sese dönüştüren bir program.
 
-*Ses İşleme Özellikleri
-+Ses İşleme Özellikleri
-/Ses İşleme Özellikleri
+<h1> Ses İşleme Özellikleri </h1>
+<h2> Ses İşleme Özellikleri </h2>
+<h3> Ses İşleme Özellikleri </h3>
+
 
 <pre>
 
