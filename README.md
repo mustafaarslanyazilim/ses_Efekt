@@ -24,3 +24,13 @@
   * Pitch Shift(Yarım Ton)
     - Perde yükseltme yaparak ses de incelme sağlar
     - Perde azaltma yaparak da ses de kalınlaşma sağlar
+
+
+-------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/68eefa43-36c2-4346-b988-7cfe06716b4e)
+
+-------------------------------------------------------------------------------------------
+
+<h2> TÜM EKRANLAR </h2>
+
+![image](https://github.com/user-attachments/assets/1900049a-8880-4ea0-b6cd-bcddb28def10)
