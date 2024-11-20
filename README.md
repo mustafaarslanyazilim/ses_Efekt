@@ -3,8 +3,8 @@ Kullanıcıdan alınan sese slider bar ile değerler atanıp işlenmiş sese dö
 
 Ses İşleme Özellikleri
 
--Bass arttırma-azaltma
--Orta ses Frekans arttırma-azaltma
+---Bass arttırma-azaltma
+---Orta ses Frekans arttırma-azaltma
 -Tiz arttırma-azaltma
 -Chorus Efekti (Chorus derinliği-Chorus hızı)
 -Echo Efekt(Tape Echo) ( Gecikme süresi-Geri besleme)
