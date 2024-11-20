@@ -1,5 +1,4 @@
-           *** Python kullanarak basit bir arayüzü olan Mikser programı ***
-Kullanıcıdan alınan sese slider bar ile değerler atanıp işlenmiş sese dönüştüren bir program.
+                   *** Python kullanarak basit bir arayüzü olan Mikser programı ***
 
 <h1> Kullanıcıdan alınan sese slider bar ile değerler atanıp işlenmiş sese dönüştüren bir program. </h1>
 
