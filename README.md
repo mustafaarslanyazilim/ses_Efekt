@@ -3,7 +3,8 @@ Kullanıcıdan alınan sese slider bar ile değerler atanıp işlenmiş sese dö
 
 Ses İşleme Özellikleri
 
-<pre
+<pre>
+
 ---Bass arttırma-azaltma
 ---Orta ses Frekans arttırma-azaltma
 -Tiz arttırma-azaltma
@@ -15,4 +16,6 @@ Ses İşleme Özellikleri
 -Flanger Efekt
 -Pitch Shift(Yarım Ton)(Perde yükseltme yaparak ses de incelme-Perde azaltma yaparak da ses de kalınlaşma sağlar)
 
->
+</pre>
+
+
